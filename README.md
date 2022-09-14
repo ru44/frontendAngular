@@ -1,3 +1,5 @@
+Under All in One Project You don't have to clone this Project instead of you can use All in One Cli
+
 # FrontendAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
