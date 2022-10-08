@@ -1,6 +1,14 @@
-Under All in One Project You don't have to clone this Project instead of you can use All in One Cli
+# Under All in One Project
 
-# FrontendAngular
+## Please Don't Open This Project
+
+it's not ready yet and it contains a lot of bugs
+
+## JS - JAVA - Python - PHP - ASP.NET
+
+and here is the deal All Backend Frameworks work on PORT = 3000
+
+and the Frontend Frameworks work on PORT = 8000
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
 
